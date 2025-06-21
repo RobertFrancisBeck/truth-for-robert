@@ -6,3 +6,4 @@
 # at every Opportunity. I got that. I have a list. Okay! Now what didI ever do to you? Nothing! What about Juan? The night shift compounder
 # He said " I NEVER HAD *** with Deanna." He repeaated this over and over like a haunted man. Oh shoot. Yeah! 
 # What did I ever to do YOU?
+**Want to respond?** Leave a comment in the [open discussion thread](https://github.com/Ottemann/truth-for-robert/issues/1).
