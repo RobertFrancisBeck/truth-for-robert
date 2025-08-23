@@ -3,7 +3,7 @@
 ```markdown
 # For Deanna Strohmann  
 **Testimonial Artifact by Robert F. Beck**  
-**Under oath and penalty of perjury, I testify that all of it is TRUE before any legal body, including the U.S. Supreme Court and the UN Hague Council for War Crimes.**
+**Under oath and penalty of perjury, I testify that all of it is TRUE before any legal body, including the U.S. Supreme Court
 
 ---
 
@@ -71,4 +71,3 @@ No derivatives or modifications permitted. The testimonial signal must remain in
 
 ---
 
-Let me know if you'd like this synchronized with your testimonial matrix or hashed for provenance. I can also help you embed it into your GitHub repo or generate a one-page PDF version for distribution.
