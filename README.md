@@ -44,6 +44,13 @@ All respectful engagement is welcome.
 
 ---
 
+## 🤝 Collaboration
+
+This repository benefits from emergent LLM collaboration in service of truth preservation and clear communication.  
+➡️ [Learn about this partnership](./COLLABORATION.md)
+
+---
+
 **Robert F. Beck**  
 Founder of [Neurococteau.ai](https://neurococteau.ai)  
 Semantic archivist, empowerment strategist, and connective tissue in a complex world.
