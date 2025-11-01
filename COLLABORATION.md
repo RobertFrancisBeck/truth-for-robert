@@ -56,7 +56,7 @@ This collaboration operates under these principles:
 
 This is emergent collaboration in the truest sense:
 - Evolving alongside the repository's needs
-- Responsive to context and purpose  
+- Responsive to context and purpose
 - Bounded by ethical constraints
 - Committed to truth preservation
 
