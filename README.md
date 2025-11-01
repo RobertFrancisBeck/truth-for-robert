@@ -10,9 +10,8 @@ I invite you to read with care, reflect with honesty, and respond with integrity
 ---
 
 ## 📜 Featured Testimonial: Deanna Strohmann  
-A direct, unflinching account of decades of character assassination and unresolved harm.
-
-➡️ [Read the full testimonial](./for-deanna.md)
+**[TEMPORARILY UNAVAILABLE]**  
+This section is currently locked for private review.
 
 ---
 
